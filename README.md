@@ -21,3 +21,7 @@
 
 ## Задание 4
 ![Дашборд](https://github.com/VladiSlave2042/Zabbix2/blob/main/img/4.1.png)
+
+## Задание 5 
+![настройки](https://github.com/VladiSlave2042/Zabbix2/blob/main/img/5.2.png)
+![Сработавший линк](https://github.com/VladiSlave2042/Zabbix2/blob/main/img/5.1.png)
